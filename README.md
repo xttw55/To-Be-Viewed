@@ -2,6 +2,8 @@
 
 Arduino code for **To Be Viewed**, an interactive installation exploring how external attention and social feedback can reshape self-perception and agency.
 
+<img src="image.jpg" width="700">
+
 ## Interaction
 
 Visitors choose a pre-written comment block or emoji token and drop it into the installation. Infrared sensors detect the input and trigger servo motors, which pull red strings connected to the puppet’s arms.
