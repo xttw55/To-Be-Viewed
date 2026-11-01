@@ -1,6 +1,7 @@
 # To Be Viewed
 
 Arduino code for **To Be Viewed**, an interactive installation exploring how external attention and social feedback can reshape self-perception and agency.
+Video link：https://youtu.be/EXuVFYio3D0?si=jYiuiS4pIsurgp1Q
 
 <img src="image.jpg" width="700">
 
